@@ -632,7 +632,7 @@ b {
 }
 
 .best {
-  background: url("../img/bg/bg-best.png") center center/cover no-repeat;
+  background: url("./img/bg/bg-best.png") center center/cover no-repeat;
   color: #2f3234;
 }
 
