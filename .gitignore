@@ -1,1 +1,4 @@
-layout.jpg
+/layout.jpg
+*.scss
+*.config
+*.map
